@@ -1,0 +1,43 @@
+{
+  "citations": [
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer/518000/"
+    },
+    {
+      "title": "60% of consumers want personal AI agents, Adobe report",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/india-leads-asia-pacific-in-ai-use-60-of-consumers-want-their-own-personal-ai-agents-says-adobe/articleshow/111265000.cms"
+    },
+    {
+      "title": "Vancouver AI Startup Orchid Brings the World Cup to Your Messages",
+      "url": "https://techcouver.com/2026/06/12/vancouver-ai-startup-orchid-brings-the-world-cup-to-your-messages/"
+    },
+    {
+      "title": "Grid auto-flow: dense \u2014 MDN",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow"
+    }
+  ],
+  "design_plan": "Cinematic editorial competitor page with a dense CSS-grid bento layout, GSAP-enhanced but guarded motion, Geist/Satoshi font stack, dark premium palette, and AIDA flow. Hero uses split headline + ambient motion. Bento sections explicitly use grid-auto-flow: dense to avoid gaps. Clear contrast CTAs. Animations degrade gracefully if GSAP CDN fails.",
+  "generated_at": "2026-06-29T18:54:03.011952+00:00",
+  "headline": "Super vs Orchids \u2014 Personal AI Agents for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, editorial comparison of Super and Orchids for people choosing a personal AI agent. Orchids focuses on messaging\u2011centric and consumer experiences, while Super is built for repeated computer\u2011use workflows, with agents that operate full desktops and reuse a computer-use cache to reduce repeated execution cost. We also place both in context alongside Folk, Siri, ChatGPT, Gemini, and Grok as the personal agent market accelerates."
+}
